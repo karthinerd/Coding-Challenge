@@ -1,4 +1,4 @@
-package Sudoku;
+package LogicQuestions;
 
 public class SudokuValidator {
     public boolean isValidSudoku(char[][] board) {
